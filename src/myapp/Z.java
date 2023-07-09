@@ -1,6 +1,6 @@
 package myapp;
 
 public class Z {
-    public String name;
+    public String surname;
 
 }
